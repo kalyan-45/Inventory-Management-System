@@ -20,8 +20,8 @@ public class Main {
 
 
         Vendor vendor1 = new Vendor("Mankar Chowk", "Pune", "Maharashtra",
-                "Avi Kadam", "8082334411", "avi6@gmail.com", "Inspira");
+                "Daya Zatal", "8082334411", "daya7@gmail.com", "Inspira");
 
-
+        System.out.println(vendor1.getContactDetails());
     }
 }
