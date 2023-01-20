@@ -1,6 +1,6 @@
 package upgrad.ims;
 
-public class    Vendor extends BusinessPartner {
+public class Vendor extends BusinessPartner {
 
     private String vendorName;
     private float credit;
